@@ -1,0 +1,20 @@
+{
+  "patch": {
+    "patchid": 247,
+    "patchVersion": "26.08",
+    "start": "2026-04-14T19:15:07.000Z",
+    "enabled": true,
+    "v3": true,
+    "matchCount": 780006,
+    "image": "26-8.webp"
+  },
+  "report": {
+    "id": 16,
+    "patchId": 247,
+    "content": "<p>Welcome to Koreanbuilds.net's comprehensive patch report for 26.08, your definitive guide to the shifts in the Korean high-elo meta. This analysis is built <span class=\"b\">exclusively from Korean Solo Queue games featuring at least one player ranked Master or higher</span>, providing insights into how the latest balance adjustments are impacting competitive play. Dive into our latest <a href=\"/tierlists\" class=\"link\">26.08 Tier Lists</a> and <a href=\"/champion-statistics\" class=\"link\">26.08 Champion Statistics</a>, or review the <a href=\"https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26.08-notes/\" class=\"link\">26.08 Patch Notes</a> for full details.</p>\n\n<p>The 26.08 patch brings a mix of targeted buffs and nerfs to Summoner's Rift, alongside some qualit...",
+    "languageId": null,
+    "created_at": "2026-04-25T12:01:40.000Z",
+    "language": null,
+    "_truncated_from_content_length": 22469
+  }
+}

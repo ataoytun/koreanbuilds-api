@@ -1,0 +1,270 @@
+{
+  "champions": [
+    {
+      "id": 266,
+      "name": "Aatrox",
+      "localName": "Aatrox",
+      "image": "Aatrox.png",
+      "className": "Aatrox",
+      "builds": {
+        "mid": 4,
+        "support": 0,
+        "top": 47,
+        "jungle": 7,
+        "bot": 0
+      },
+      "usage": {
+        "total": {
+          "rawGames": 624,
+          "percentage": "0.40"
+        },
+        "top": {
+          "rawGames": 515,
+          "percentage": "1.51"
+        },
+        "mid": {
+          "rawGames": 42,
+          "percentage": "0.13"
+        },
+        "bot": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "support": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "jungle": {
+          "rawGames": 67,
+          "percentage": "0.19"
+        }
+      }
+    },
+    {
+      "id": 103,
+      "name": "Ahri",
+      "localName": "Ahri",
+      "image": "Ahri.png",
+      "className": "Ahri",
+      "builds": {
+        "mid": 135,
+        "support": 0,
+        "top": 2,
+        "jungle": 0,
+        "bot": 0
+      },
+      "usage": {
+        "total": {
+          "rawGames": 1397,
+          "percentage": "0.89"
+        },
+        "top": {
+          "rawGames": 17,
+          "percentage": "0.05"
+        },
+        "mid": {
+          "rawGames": 1380,
+          "percentage": "4.21"
+        },
+        "bot": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "support": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "jungle": {
+          "rawGames": 0,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "id": 84,
+      "name": "Akali",
+      "localName": "Akali",
+      "image": "Akali.png",
+      "className": "Akali",
+      "builds": {
+        "mid": 83,
+        "support": 0,
+        "top": 26,
+        "jungle": 0,
+        "bot": 0
+      },
+      "usage": {
+        "total": {
+          "rawGames": 1048,
+          "percentage": "0.67"
+        },
+        "top": {
+          "rawGames": 221,
+          "percentage": "0.65"
+        },
+        "mid": {
+          "rawGames": 827,
+          "percentage": "2.52"
+        },
+        "bot": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "support": {
+          "rawGames": 0,
+          "percentage": 0
+        },
+        "jungle": {
+          "rawGames": 0,
+          "percentage": 0
+        }
+      }
+    }
+  ],
+  "patches": [
+    {
+      "patchid": 248,
+      "patchVersion": "26.09",
+      "start": "2026-04-28T19:15:11.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 411961,
+      "image": "26-9.webp",
+      "hasReport": false
+    },
+    {
+      "patchid": 247,
+      "patchVersion": "26.08",
+      "start": "2026-04-14T19:15:07.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 780006,
+      "image": "26-8.webp",
+      "hasReport": true
+    },
+    {
+      "patchid": 246,
+      "patchVersion": "26.07",
+      "start": "2026-03-31T19:15:05.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 882616,
+      "image": "26-7.webp",
+      "hasReport": true
+    }
+  ],
+  "messages": [],
+  "features": [],
+  "tierlists": [
+    {
+      "idTierList": 6669283,
+      "winrate": "50.80",
+      "winratePlus": "51.20",
+      "skillGap": "0.40",
+      "pickrate": "27.77",
+      "banrate": "6.42",
+      "games": 11436,
+      "popularity": "94.05",
+      "position": {
+        "idposition": 6,
+        "positionName": "None"
+      },
+      "rank": {
+        "rankId": 1,
+        "tierlistRankName": "S"
+      },
+      "champion": {
+        "chmpid": 64,
+        "name": "Lee Sin",
+        "image": "LeeSin.png",
+        "isSupp": false,
+        "hash": "287494ee46bab2189c77a70993ce6852",
+        "blurp": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
+        "localName": "Lee Sin"
+      },
+      "patch": {
+        "patchid": 248,
+        "patchVersion": "26.09",
+        "start": "2026-04-28T19:15:11.000Z",
+        "enabled": true,
+        "v3": true,
+        "matchCount": 411961,
+        "image": "26-9.webp"
+      }
+    },
+    {
+      "idTierList": 6669284,
+      "winrate": "48.25",
+      "winratePlus": "48.77",
+      "skillGap": "0.52",
+      "pickrate": "30.93",
+      "banrate": "3.55",
+      "games": 12738,
+      "popularity": 100,
+      "position": {
+        "idposition": 6,
+        "positionName": "None"
+      },
+      "rank": {
+        "rankId": 1,
+        "tierlistRankName": "S"
+      },
+      "champion": {
+        "chmpid": 81,
+        "name": "Ezreal",
+        "image": "Ezreal.png",
+        "isSupp": false,
+        "hash": "e4baff76bdbb6c5205c08c78a6c26a11",
+        "blurp": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
+        "localName": "Ezreal"
+      },
+      "patch": {
+        "patchid": 248,
+        "patchVersion": "26.09",
+        "start": "2026-04-28T19:15:11.000Z",
+        "enabled": true,
+        "v3": true,
+        "matchCount": 411961,
+        "image": "26-9.webp"
+      }
+    },
+    {
+      "idTierList": 6669285,
+      "winrate": "52.65",
+      "winratePlus": "53.47",
+      "skillGap": "0.82",
+      "pickrate": "18.95",
+      "banrate": "1.70",
+      "games": 7803,
+      "popularity": "60.63",
+      "position": {
+        "idposition": 6,
+        "positionName": "None"
+      },
+      "rank": {
+        "rankId": 1,
+        "tierlistRankName": "S"
+      },
+      "champion": {
+        "chmpid": 22,
+        "name": "Ashe",
+        "image": "Ashe.png",
+        "isSupp": false,
+        "hash": "086f1bc7d8db94722fd015251addca61",
+        "blurp": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
+        "localName": "Ashe"
+      },
+      "patch": {
+        "patchid": 248,
+        "patchVersion": "26.09",
+        "start": "2026-04-28T19:15:11.000Z",
+        "enabled": true,
+        "v3": true,
+        "matchCount": 411961,
+        "image": "26-9.webp"
+      }
+    }
+  ],
+  "_truncated_from_champions": 172,
+  "_truncated_from_tierlists": 45
+}

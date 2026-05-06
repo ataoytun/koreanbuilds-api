@@ -1,0 +1,40 @@
+{
+  "_truncated_from": 47,
+  "_items": [
+    {
+      "championName": "Ezreal",
+      "encChampionName": "Ezreal",
+      "viewers": 6,
+      "image": "Ezreal.png",
+      "localName": "Ezreal"
+    },
+    {
+      "championName": "Diana",
+      "encChampionName": "Diana",
+      "viewers": 3,
+      "image": "Diana.png",
+      "localName": "Diana"
+    },
+    {
+      "championName": "Naafiri",
+      "encChampionName": "Naafiri",
+      "viewers": 3,
+      "image": "Naafiri.png",
+      "localName": "Naafiri"
+    },
+    {
+      "championName": "Senna",
+      "encChampionName": "Senna",
+      "viewers": 3,
+      "image": "Senna.png",
+      "localName": "Senna"
+    },
+    {
+      "championName": "Smolder",
+      "encChampionName": "Smolder",
+      "viewers": 3,
+      "image": "Smolder.png",
+      "localName": "Smolder"
+    }
+  ]
+}

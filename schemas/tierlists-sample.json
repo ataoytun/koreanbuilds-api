@@ -1,0 +1,709 @@
+{
+  "tierlists": {
+    "_truncated_from_all": 148,
+    "all": [
+      {
+        "idTierList": 6669283,
+        "winrate": "50.80",
+        "winratePlus": "51.20",
+        "skillGap": "0.40",
+        "pickrate": "27.77",
+        "banrate": "6.42",
+        "games": 11436,
+        "popularity": "94.05",
+        "position": {
+          "idposition": 6,
+          "positionName": "None"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 64,
+          "name": "Lee Sin",
+          "image": "LeeSin.png",
+          "isSupp": false,
+          "hash": "287494ee46bab2189c77a70993ce6852",
+          "blurp": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
+          "localName": "Lee Sin"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669284,
+        "winrate": "48.25",
+        "winratePlus": "48.77",
+        "skillGap": "0.52",
+        "pickrate": "30.93",
+        "banrate": "3.55",
+        "games": 12738,
+        "popularity": 100,
+        "position": {
+          "idposition": 6,
+          "positionName": "None"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 81,
+          "name": "Ezreal",
+          "image": "Ezreal.png",
+          "isSupp": false,
+          "hash": "e4baff76bdbb6c5205c08c78a6c26a11",
+          "blurp": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
+          "localName": "Ezreal"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669285,
+        "winrate": "52.65",
+        "winratePlus": "53.47",
+        "skillGap": "0.82",
+        "pickrate": "18.95",
+        "banrate": "1.70",
+        "games": 7803,
+        "popularity": "60.63",
+        "position": {
+          "idposition": 6,
+          "positionName": "None"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 22,
+          "name": "Ashe",
+          "image": "Ashe.png",
+          "isSupp": false,
+          "hash": "086f1bc7d8db94722fd015251addca61",
+          "blurp": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
+          "localName": "Ashe"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ],
+    "_truncated_from_top": 67,
+    "top": [
+      {
+        "idTierList": 6669512,
+        "winrate": "58.63",
+        "winratePlus": "62.22",
+        "skillGap": "3.59",
+        "pickrate": "0.68",
+        "banrate": "2.62",
+        "games": 278,
+        "popularity": "14.13",
+        "position": {
+          "idposition": 3,
+          "positionName": "Top"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 238,
+          "name": "Zed",
+          "image": "Zed.png",
+          "isSupp": false,
+          "hash": "3be4dbf3a1df628e0308675955caecb1",
+          "blurp": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.",
+          "localName": "Zed"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669513,
+        "winrate": "49.21",
+        "winratePlus": "50.55",
+        "skillGap": "1.34",
+        "pickrate": "11.59",
+        "banrate": "2.64",
+        "games": 4773,
+        "popularity": 100,
+        "position": {
+          "idposition": 3,
+          "positionName": "Top"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 126,
+          "name": "Jayce",
+          "image": "Jayce.png",
+          "isSupp": false,
+          "hash": "56ab2d7dbc98b47dc28f85fdd190fba9",
+          "blurp": "Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as \"the Man of Progress,\" but often struggles with the expectations placed upon him. Because of this, Jayce has begun to see the ways in which his invention has furthered the division between Piltover and Zaun—and armed with his hextech hammer, he stands ready to defend tomorrow.",
+          "localName": "Jayce"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669514,
+        "winrate": "59.72",
+        "winratePlus": "60.89",
+        "skillGap": "1.16",
+        "pickrate": "0.70",
+        "banrate": "0.21",
+        "games": 288,
+        "popularity": "6.22",
+        "position": {
+          "idposition": 3,
+          "positionName": "Top"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 107,
+          "name": "Rengar",
+          "image": "Rengar.png",
+          "isSupp": false,
+          "hash": "21c27a760db758de6ab96bf021b0f344",
+          "blurp": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha'Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.",
+          "localName": "Rengar"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ],
+    "_truncated_from_jungle": 53,
+    "jungle": [
+      {
+        "idTierList": 6669633,
+        "winrate": "50.93",
+        "winratePlus": "51.26",
+        "skillGap": "0.33",
+        "pickrate": "27.43",
+        "banrate": "6.42",
+        "games": 11296,
+        "popularity": 100,
+        "position": {
+          "idposition": 5,
+          "positionName": "Jungle"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 64,
+          "name": "Lee Sin",
+          "image": "LeeSin.png",
+          "isSupp": false,
+          "hash": "287494ee46bab2189c77a70993ce6852",
+          "blurp": "A master of Ionia's ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
+          "localName": "Lee Sin"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669634,
+        "winrate": "50.52",
+        "winratePlus": "50.48",
+        "skillGap": "-0.05",
+        "pickrate": "13.48",
+        "banrate": "0.59",
+        "games": 5550,
+        "popularity": "45.50",
+        "position": {
+          "idposition": 5,
+          "positionName": "Jungle"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 5,
+          "name": "Xin Zhao",
+          "image": "XinZhao.png",
+          "isSupp": false,
+          "hash": "513dabcac307200d3d8e22362f18f468",
+          "blurp": "Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave liberators. Armed with his favored three-talon spear, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe, no matter the odds.",
+          "localName": "Xin Zhao"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669635,
+        "winrate": "50.06",
+        "winratePlus": "54.22",
+        "skillGap": "4.15",
+        "pickrate": "7.85",
+        "banrate": "2.96",
+        "games": 3232,
+        "popularity": "30.21",
+        "position": {
+          "idposition": 5,
+          "positionName": "Jungle"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 950,
+          "name": "Naafiri",
+          "image": "Naafiri.png",
+          "isSupp": false,
+          "hash": "8ec11092fc02aafca4b263d48dabfb33",
+          "blurp": "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin.",
+          "localName": "Naafiri"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ],
+    "_truncated_from_mid": 54,
+    "mid": [
+      {
+        "idTierList": 6669579,
+        "winrate": "52.85",
+        "winratePlus": "53.01",
+        "skillGap": "0.17",
+        "pickrate": "7.64",
+        "banrate": "2.62",
+        "games": 3145,
+        "popularity": "69.63",
+        "position": {
+          "idposition": 4,
+          "positionName": "Mid"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 238,
+          "name": "Zed",
+          "image": "Zed.png",
+          "isSupp": false,
+          "hash": "3be4dbf3a1df628e0308675955caecb1",
+          "blurp": "Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia's magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.",
+          "localName": "Zed"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669580,
+        "winrate": "54.63",
+        "winratePlus": "57.43",
+        "skillGap": "2.80",
+        "pickrate": "1.76",
+        "banrate": "2.96",
+        "games": 723,
+        "popularity": "24.04",
+        "position": {
+          "idposition": 4,
+          "positionName": "Mid"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 950,
+          "name": "Naafiri",
+          "image": "Naafiri.png",
+          "isSupp": false,
+          "hash": "8ec11092fc02aafca4b263d48dabfb33",
+          "blurp": "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin.",
+          "localName": "Naafiri"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669581,
+        "winrate": "52.32",
+        "winratePlus": "53.32",
+        "skillGap": 1,
+        "pickrate": "8.58",
+        "banrate": "0.41",
+        "games": 3534,
+        "popularity": "69.61",
+        "position": {
+          "idposition": 4,
+          "positionName": "Mid"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 4,
+          "name": "Twisted Fate",
+          "image": "TwistedFate.png",
+          "isSupp": false,
+          "hash": "367afd11739872b2463796b1ebd618ba",
+          "blurp": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.",
+          "localName": "Twisted Fate"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ],
+    "_truncated_from_bot": 33,
+    "bot": [
+      {
+        "idTierList": 6669479,
+        "winrate": "48.62",
+        "winratePlus": "49.01",
+        "skillGap": "0.38",
+        "pickrate": "29.72",
+        "banrate": "3.55",
+        "games": 12237,
+        "popularity": 100,
+        "position": {
+          "idposition": 2,
+          "positionName": "Bot"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 81,
+          "name": "Ezreal",
+          "image": "Ezreal.png",
+          "isSupp": false,
+          "hash": "e4baff76bdbb6c5205c08c78a6c26a11",
+          "blurp": "A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn't too far behind. Or ahead. Probably everywhere.",
+          "localName": "Ezreal"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669480,
+        "winrate": "52.76",
+        "winratePlus": "53.57",
+        "skillGap": "0.81",
+        "pickrate": "18.77",
+        "banrate": "1.70",
+        "games": 7731,
+        "popularity": "62.43",
+        "position": {
+          "idposition": 2,
+          "positionName": "Bot"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 22,
+          "name": "Ashe",
+          "image": "Ashe.png",
+          "isSupp": false,
+          "hash": "086f1bc7d8db94722fd015251addca61",
+          "blurp": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands.",
+          "localName": "Ashe"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669481,
+        "winrate": "48.66",
+        "winratePlus": "49.05",
+        "skillGap": "0.39",
+        "pickrate": "23.24",
+        "banrate": "0.21",
+        "games": 9570,
+        "popularity": "74.68",
+        "position": {
+          "idposition": 2,
+          "positionName": "Bot"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 202,
+          "name": "Jhin",
+          "image": "Jhin.png",
+          "isSupp": false,
+          "hash": "b2f724f9bcc3875e46f1b17fbf9c05a0",
+          "blurp": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia's ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
+          "localName": "Jhin"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ],
+    "_truncated_from_support": 48,
+    "support": [
+      {
+        "idTierList": 6669431,
+        "winrate": "50.20",
+        "winratePlus": "49.06",
+        "skillGap": "-1.14",
+        "pickrate": "15.79",
+        "banrate": "3.49",
+        "games": 6504,
+        "popularity": 100,
+        "position": {
+          "idposition": 1,
+          "positionName": "Support"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 43,
+          "name": "Karma",
+          "image": "Karma.png",
+          "isSupp": true,
+          "hash": "dc63d1f3dd0ff12e517a83c5147d17e8",
+          "blurp": "No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost—both to her, and to the land she holds most dear.",
+          "localName": "Karma"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669432,
+        "winrate": "49.42",
+        "winratePlus": "51.59",
+        "skillGap": "2.17",
+        "pickrate": "6.93",
+        "banrate": "6.38",
+        "games": 2855,
+        "popularity": "55.92",
+        "position": {
+          "idposition": 1,
+          "positionName": "Support"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 555,
+          "name": "Pyke",
+          "image": "Pyke.png",
+          "isSupp": true,
+          "hash": "3ccac8da5ad5c1f7b8fc8141fefd3846",
+          "blurp": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish… and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others—and a city that prides itself on hunting monsters now finds a monster hunting them.",
+          "localName": "Pyke"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      },
+      {
+        "idTierList": 6669433,
+        "winrate": "48.69",
+        "winratePlus": "49.42",
+        "skillGap": "0.72",
+        "pickrate": "15.06",
+        "banrate": "1.50",
+        "games": 6204,
+        "popularity": "90.84",
+        "position": {
+          "idposition": 1,
+          "positionName": "Support"
+        },
+        "rank": {
+          "rankId": 1,
+          "tierlistRankName": "S"
+        },
+        "champion": {
+          "chmpid": 111,
+          "name": "Nautilus",
+          "image": "Nautilus.png",
+          "isSupp": true,
+          "hash": "742fa4c3ec98944e57df8a9f89a3c52d",
+          "blurp": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to save the wretched, and drag the greedy to their doom. It is said he comes for those who forget to pay the “Bilgewater tithe”, pulling them down beneath the waves with him—an iron-clad reminder that none can escape the depths.",
+          "localName": "Nautilus"
+        },
+        "patch": {
+          "patchid": 248,
+          "patchVersion": "26.09",
+          "start": "2026-04-28T19:15:11.000Z",
+          "enabled": true,
+          "v3": true,
+          "matchCount": 411961,
+          "image": "26-9.webp"
+        }
+      }
+    ]
+  },
+  "patches": [
+    {
+      "patchid": 248,
+      "patchVersion": "26.09",
+      "start": "2026-04-28T19:15:11.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 411072,
+      "image": "26-9.webp"
+    },
+    {
+      "patchid": 247,
+      "patchVersion": "26.08",
+      "start": "2026-04-14T19:15:07.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 780006,
+      "image": "26-8.webp"
+    },
+    {
+      "patchid": 246,
+      "patchVersion": "26.07",
+      "start": "2026-03-31T19:15:05.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 882616,
+      "image": "26-7.webp"
+    }
+  ],
+  "selectedPatch": {
+    "patchid": 248,
+    "patchVersion": "26.09",
+    "start": "2026-04-28T19:15:11.000Z",
+    "enabled": true,
+    "v3": true,
+    "matchCount": 411072,
+    "image": "26-9.webp"
+  },
+  "sampleSize": 411072
+}

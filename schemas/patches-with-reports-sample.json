@@ -1,0 +1,50 @@
+{
+  "_truncated_from": 12,
+  "_items": [
+    {
+      "patchid": 247,
+      "patchVersion": "26.08",
+      "start": "2026-04-14T19:15:07.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 780006,
+      "image": "26-8.webp"
+    },
+    {
+      "patchid": 246,
+      "patchVersion": "26.07",
+      "start": "2026-03-31T19:15:05.000Z",
+      "enabled": true,
+      "v3": true,
+      "matchCount": 882616,
+      "image": "26-7.webp"
+    },
+    {
+      "patchid": 245,
+      "patchVersion": "26.06",
+      "start": "2026-03-17T19:15:05.000Z",
+      "enabled": false,
+      "v3": true,
+      "matchCount": 952486,
+      "image": "26-6.webp"
+    },
+    {
+      "patchid": 244,
+      "patchVersion": "26.05",
+      "start": "2026-03-03T19:15:03.000Z",
+      "enabled": false,
+      "v3": true,
+      "matchCount": 1348986,
+      "image": "26-5.webp"
+    },
+    {
+      "patchid": 242,
+      "patchVersion": "26.03",
+      "start": "2026-02-03T19:15:08.000Z",
+      "enabled": false,
+      "v3": true,
+      "matchCount": 4064527,
+      "image": "26-3.webp"
+    }
+  ]
+}
